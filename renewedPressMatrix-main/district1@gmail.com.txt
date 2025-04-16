@@ -1,0 +1,12 @@
+district1@gmail.com
+district@123
+
+district2@gmail.com
+district@123
+
+area1@gmail.com
+area@1234
+
+vendor1@gmail.com
+vendor@1234
+
